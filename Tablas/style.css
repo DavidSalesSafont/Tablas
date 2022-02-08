@@ -1,0 +1,38 @@
+h1{font-family: 'Hanalei', cursive;text-align:center;font-size:3em;}
+#uno{margin-left: auto;
+  margin-right: auto;border: black 1px solid;}
+.one{width:10%;font-weight:bold;text-align:center;border: black 1px solid}
+#c1{background-color: yellow;
+  text-align: center;color:blue;font-weight:bold;font-size:20px}
+
+.two{width:10%;font-weight:normal;text-align:center;border: black 1px solid}
+.three{width:10%;font-weight:normal;text-align:center;border: grey 1px solid}
+
+#d1{border: black 1px solid;height:30px;margin-top:15px;margin-bottom:15px;}
+#c2{background-color: yellow;
+  text-align: center;color:blue;font-weight:bold;font-size:20px;caption-side: bottom;}
+#dos{margin-left: auto;
+  margin-right: auto;border-collapse: collapse;}
+.four{width:45em;font-weight:normal;text-align:center;border-top: black 1px solid; border-right: black 1px solid;}
+#four1{border: black 1px solid;font-weight:bold;}
+#four2{border: black 1px solid;font-weight:bold;}
+
+.five{width:45em;font-weight:normal;text-align:center;}
+#four3{border-top: red 5px dotted;border-right: black 1px solid;border-bottom: black 1px solid;border-left:red 5px dotted;}
+#four4{border-top: red 5px dotted;border-right: red 5px dotted;border-bottom: black 1px solid;border-left:black 1px solid;}
+
+#four5{border-top: black 1px solid;border-right: black 1px solid;border-bottom: black 1px solid;border-left:red 5px dotted;}
+#four6{border-top: black 1px solid;border-right: red 5px dotted;border-bottom: black 1px solid;border-left:black 1px solid;}
+
+#four7{border-bottom: grey 1px solid;border-left:red 5px dotted;border-right: black 1px solid;border-top: black 1px solid;}
+#four8{border-top: black 1px solid;border-right: red 5px dotted;border-bottom: grey 1px solid;border-left:black 1px solid;}
+
+#four9{border-top: grey 1px solid;border-right: black 1px solid;border-bottom: black 1px solid;border-left:red 5px dotted;}
+#four10{border-top: grey 1px solid;border-right: red 5px dotted;border-bottom: black 1px solid;border-left:black 1px solid;}
+
+#four11{border-top: grey 1px solid;border-right: black 1px solid;border-bottom: red 5px dotted;border-left:red 5px dotted;}
+#four12{border-top: grey 1px solid;border-right: red 5px dotted;border-left:black 1px solid;border-bottom: red 5px dotted;}
+
+#d2{color:blue;background-color:orange;border: red 5px double;height:50px;text-align:center;font-size:1.3em;font-weight:bold;padding-top:22px}
+
+hr{width:50em;}
